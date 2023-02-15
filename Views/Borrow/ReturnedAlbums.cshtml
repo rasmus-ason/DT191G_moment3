@@ -1,0 +1,54 @@
+@model IEnumerable<Dt191G_moment3.Models.Borrow>
+
+@{
+    ViewData["Title"] = "Returnerade album";
+}
+
+<h1>Återlämnade album</h1>
+<a asp-action="Index">Se utlånade album</a>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BorrowedTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BorrowedArtist)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BorrowedTo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReturnDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+        @if(item.ReturnDate != null ){
+            <td>
+                @Html.DisplayFor(modelItem => item.BorrowedTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BorrowedArtist)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BorrowedTo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReturnDate)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+            }
+        </tr>
+    }
+    </tbody>
+</table>
+

@@ -1,0 +1,58 @@
+@model IEnumerable<Dt191G_moment3.Models.Music>
+
+@{
+    ViewData["Title"] = "Lediga Album";
+}
+
+<h2>Låna ett album</h2>
+
+<h3>Sök</h3>
+<form asp-action="AvailableAlbums" method="get">
+    <div class="form-group">
+        <label for="SearchStringAvailableAlbums">Sök:</label>
+        <input type="text" name="SearchStringAvailableAlbums" value="@ViewData["CurrentFilterAvailableAlbums"]" />
+
+        <input type="submit" value="Sök">
+
+    </div>
+</form>
+
+<a asp-action="AvailableAlbums">Återställ sökning!</a>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Artist)
+            </th>
+            <th>
+                Låna
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+    @if(item.IsBorrowed == false){
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Artist)
+            </td>
+            <td>  
+                <a asp-controller="Borrow" asp-action="Create"
+                asp-route-artist="@item.Artist" asp-route-title="@item.Title" asp-route-AlbumId="@item.Id">Låna ut</a>
+
+            </td> 
+        </tr>
+        }
+    } 
+    </tbody>
+    
+</table>
