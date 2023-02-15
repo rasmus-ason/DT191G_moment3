@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dt191G_moment3.props" />
+</Project>

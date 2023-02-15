@@ -1,0 +1,193 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Dt191G_moment3
+build_property.RootNamespace = Dt191G_moment3
+build_property.ProjectDir = c:\Users\Ander\Dt191G_moment3\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Ander\Dt191G_moment3
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Borrow/BorrowAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcQm9ycm93XEJvcnJvd0FsYnVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Borrow/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcQm9ycm93XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Borrow/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcQm9ycm93XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Borrow/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcQm9ycm93XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Borrow/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcQm9ycm93XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Borrow/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcQm9ycm93XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Borrow/ReturnedAlbums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcQm9ycm93XFJldHVybmVkQWxidW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/AvailableAlbums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcQXZhaWxhYmxlQWxidW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/Borrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcQm9ycm93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Music/ReturnAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcTXVzaWNcUmV0dXJuQWxidW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Borrow/BorrowAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XEJvcnJvd0FsYnVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Borrow/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Borrow/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Borrow/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Borrow/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Borrow/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Borrow/ReturnedAlbums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XFJldHVybmVkQWxidW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/AvailableAlbums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcQXZhaWxhYmxlQWxidW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/Borrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcQm9ycm93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Music/ReturnAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcUmV0dXJuQWxidW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ander/Dt191G_moment3/DT191G_moment3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RFQxOTFHX21vbWVudDNcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b6qcgzdpsf
+
+[c:/Users/Ander/Dt191G_moment3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qb3l1pm9wt
